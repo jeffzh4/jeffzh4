@@ -1,14 +1,14 @@
-# Hi, I'm Jeffrey 👋
+# Hi, I'm Jeffrey! 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I enjoy building thoughtful software at the intersection of **AI, signal processing, and human-centered design**.
+I'm an student at the **University of Washington**, pursuing a degree in **Electrical and Computer Engineering** with a minor in **Computational Finance & Risk Management**. I enjoy building thoughtful projects at the intersection of **AI, quantitative finance, and human-centered design**.
 
 ## 🔭 What I'm building
 
 - **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar for coordinating schedules, resolving conflicts, finding mutual availability, and turning day-to-day planning into a calmer collaborative experience.
 - **[ElderLink](https://github.com/jasonyi33/elderlink):** An AI-powered multilingual phone companion for seniors, integrating Gemini, ElevenLabs, and Cloudflare for real-time conversation and wellness check-ins.
-- **Institutional-Style ETF Backtesting Engine:** A modular Python research framework for risk-adjusted momentum strategies, with realistic execution lag, transaction-cost modeling, benchmark comparisons, trade logs, and institutional performance analytics.
+- **Institutional ETF Backtesting Engine:** A modular Python research framework for risk-adjusted momentum strategies, with realistic execution lag, transaction-cost modeling, benchmark comparisons, trade logs, and institutional performance analytics.
 
-## 🛠️ Tech I work with
+## 🛠️ Tech Stack I work with
 
 **Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)

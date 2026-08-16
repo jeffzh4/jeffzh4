@@ -1,12 +1,14 @@
 # Hi, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I build software across **product engineering, applied AI, and quantitative systems**.
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I build projects across **product engineering, applied AI, and quantitative systems**.
 
 ## 🔭 What I'm working on
 
 - **[Twosday](https://github.com/jeffzh4/Twosday):** A calm coordination calendar for two people, with shared events, conflict resolution, mutual free-time search, and real-time sync.
-- **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Currently supporting robotics engineering for Tesla's Optimus humanoid robot through structured data operations, sensor-data quality assurance, hardware/software troubleshooting, and process-improvement communication.
-- **Institutional-Style ETF Backtesting Engine:** A modular Python framework for evaluating risk-adjusted ETF momentum strategies with point-in-time data checks, lagged execution, transaction-cost modeling, portfolio accounting, benchmark comparisons, and reproducible performance analytics.
+
+- **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Supporting Tesla’s Optimus robotics mission through sensor-data quality, troubleshooting, structured data operations, and process-improvement communication.
+
+- **[Institutional-Style ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester):** A modular Python framework for testing risk-adjusted ETF momentum strategies with point-in-time checks, realistic execution, costs, benchmarks, and reproducible analytics.
 
 ## 🛠️ Tech I work with
 
@@ -36,13 +38,12 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
 
-Open to software, hardware, firmware, quantitative research, and applied AI/ML roles — including internships, part-time work, and full-time opportunities.
-
 ## 📬 Get in touch
 
-- [LinkedIn](https://linkedin.com/in/jeffzh4/)
-- [Email](mailto:jeffzh4@uw.edu)
+- [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeffzh4@uw.edu)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffzh4/)
+- [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jeff_zh4)
 
 <p align="center">
-  <sub>Always learning, building, and looking for the next interesting problem.</sub>
+  <sub>Always learning, building, and looking for the next interesting problem. Open to software, hardware, embedded systems, research, and AI/ML roles — including internships, part-time work, and full-time opportunities.</sub>
 </p>

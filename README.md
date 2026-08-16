@@ -5,7 +5,7 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 ## 🔭 What I'm building
 
 - **[Twosday](https://github.com/jeffzh4/Twosday):** A calm coordination calendar for two people, with shared events, conflict resolution, mutual free-time search, and real-time sync.
-- **Tesla Optimus:** Currently supporting robotics engineering through structured data operations, sensor-data quality assurance, hardware/software troubleshooting, and process-improvement communication.
+- **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Currently supporting robotics engineering for Tesla's Optimus humanoid robot through structured data operations, sensor-data quality assurance, hardware/software troubleshooting, and process-improvement communication.
 - **Institutional-Style ETF Backtesting Engine:** A modular Python framework for evaluating risk-adjusted ETF momentum strategies with point-in-time data checks, lagged execution, transaction-cost modeling, portfolio accounting, benchmark comparisons, and reproducible performance analytics.
 
 ## 🛠️ Tech I work with
@@ -30,9 +30,9 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
 

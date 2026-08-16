@@ -2,7 +2,7 @@
 
 I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I build software across **product engineering, applied AI, and quantitative systems**.
 
-## 🔭 What I'm building
+## 🔭 What I'm working on
 
 - **[Twosday](https://github.com/jeffzh4/Twosday):** A calm coordination calendar for two people, with shared events, conflict resolution, mutual free-time search, and real-time sync.
 - **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Currently supporting robotics engineering for Tesla's Optimus humanoid robot through structured data operations, sensor-data quality assurance, hardware/software troubleshooting, and process-improvement communication.
@@ -35,6 +35,8 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
+
+Open to software, hardware, firmware, quantitative research, and applied AI/ML roles — including internships, part-time work, and full-time opportunities.
 
 ## 📬 Get in touch
 

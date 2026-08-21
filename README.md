@@ -1,12 +1,12 @@
 # Hi, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I build projects across **product engineering, applied AI, and quantitative systems**.
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I build at the intersection of **embedded systems, robotics, applied AI, and quantitative engineering**.
 
 ## 🔭 What I'm working on
 
-- **[Twosday](https://github.com/jeffzh4/Twosday):** A calm coordination calendar for two people, with shared events, conflict resolution, mutual free-time search, and real-time sync.
+- **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar that helps two people compare schedules, resolve conflicts, find mutual free time, and coordinate plans more easily.
 
-- **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Supporting Tesla’s Optimus robotics mission through sensor-data quality, troubleshooting, structured data operations, and process-improvement communication.
+- **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Supporting Tesla's cutting edge Optimus robotics mission through sensor telemetry, computer vision, hardware-software triage, and feedback loops supporting AI development.
 
 - **[Institutional-Style ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester):** A modular Python framework for testing risk-adjusted ETF momentum strategies with point-in-time checks, realistic execution, costs, benchmarks, and reproducible analytics.
 

@@ -1,16 +1,16 @@
 # Hi, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I build at the intersection of **embedded systems, robotics, applied AI, and quantitative engineering**.
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I'm currently working on projects across **embedded systems, robotics, ML/AI, and quantitative finance**.
 
 ## 🔭 What I'm working on
 
-- **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar that helps two people compare schedules, resolve conflicts, find mutual free time, and coordinate plans more easily.
+- **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar that helps two users compare schedules, resolve conflicts, find mutual free time, and coordinate plans more easily.
 
 - **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Supporting Tesla's cutting edge Optimus robotics mission through sensor telemetry, computer vision, hardware-software triage, and feedback loops supporting AI development.
 
-- **[Institutional-Style ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester):** A modular Python framework for testing risk-adjusted ETF momentum strategies with point-in-time checks, realistic execution, costs, benchmarks, and reproducible analytics.
+- **[Institutional-Style ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester)** *(not yet public)***:** A modular Python framework for testing risk-adjusted ETF momentum strategies with point-in-time checks, realistic execution, costs, benchmarks, and reproducible analytics.
 
-## 🛠️ Tech I work with
+## 🛠️ Tech stack I work with
 
 **Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111)
@@ -45,5 +45,5 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 - [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jeff_zh4)
 
 <p align="center">
-  <sub>Always learning, building, and looking for the next interesting problem. Open to software, hardware, embedded systems, research, and AI/ML roles — including internships, part-time work, and full-time opportunities.</sub>
+  <sub>Always learning, building, and looking for the next interesting problem. Open to software, hardware, embedded systems, research, and AI/ML roles — including internships, part-time, and full-time opportunities.</sub>
 </p>

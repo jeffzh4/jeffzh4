@@ -45,5 +45,5 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 - [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jeff_zh4)
 
 <p align="center">
-  <sub>Always learning, building, and looking for the next interesting problem. Open to software, hardware, embedded systems, research, and AI/ML roles — including internships, part-time, and full-time opportunities.</sub>
+  <sub>Always learning and building—open to software, hardware, embedded systems, research, and AI/ML opportunities across internships, part-time, and full-time roles.</sub>
 </p>

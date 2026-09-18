@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=100&color=58A6FF&background=0D1117&center=true&vCenter=true&width=620&height=80&lines=%24+whoami%3Bjeffreyzhang&cursor=|&repeat=true" alt="Terminal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=100&color=58A6FF&background=0D1117&center=true&vCenter=true&width=620&height=80&lines=%24+whoami%3Bjeffzh4&cursor=|&repeat=true" alt="Terminal typing animation" />
 </p>
 
 # Hi, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I'm currently working on projects across **embedded systems, robotics, ML/AI, and quantitative finance**.
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I build projects across **embedded systems, robotics, ML/AI, and quantitative finance**.
 
-## 🔭 What I'm working on
+## Experience
 
-- **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar that helps two users compare schedules, resolve conflicts, find mutual free time, and coordinate plans more easily.
+- **Tesla:** Supported Tesla's Optimus robotics mission through sensor telemetry, computer vision, hardware-software triage, and feedback loops supporting AI development.
+- **Washington Solar Racing:**
+- **Washington Tunneling:**
 
-- **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Supporting Tesla's cutting edge Optimus robotics R&D initiative through sensor telemetry, computer vision, hardware-software triage, and quality assurance loops supporting AI development.
+## Selected Projects
 
-- **[Institutional-Style ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester)** *(not yet public)***:** A modular Python framework for testing risk-adjusted ETF momentum strategies with point-in-time checks, realistic execution, costs, benchmarks, and reproducible analytics.
+- **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar for comparing schedules, resolving conflicts, finding mutual free time, and coordinating plans.
+
+- **[Institutional-Style ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester)** *(private research project):* A modular Python framework for evaluating risk-adjusted ETF momentum strategies with realistic execution, costs, benchmarks, and reproducible analytics.
 
 ## 🛠️ Tech stack I work with
 

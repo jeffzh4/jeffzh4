@@ -1,49 +1,23 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=100&color=58A6FF&background=0D1117&center=true&vCenter=true&width=620&height=80&lines=%24+whoami%3Bjeffzh4&cursor=|&repeat=true" alt="Terminal typing animation" />
-</p>
-
 # Hi, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I build projects across **embedded systems, robotics, ML/AI, and quantitative finance**.
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I'm currently working on projects across **embedded systems, robotics, ML/AI, and quantitative finance**.
 
-## 🧰 Experience
+## 🔭 What I'm working on
 
-- **Tesla Optimus:** Supported Tesla's Optimus robotics mission through sensor telemetry, computer vision, hardware-software triage, and feedback loops supporting AI development.
-
-- **Washington Solar Racing:** Firmware team member contributing to embedded firmware for solar vehicle systems.
-
-- **Washington Tunneling:** Business & Design team member supporting product strategy, design, and team operations.
-
-## 🧪 Selected projects
-
-- **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar for comparing schedules, resolving conflicts, finding mutual free time, and coordinating plans.
-
-- **[Moviegit](https://github.com/jeffzh4/Moviegit):** A GitHub-inspired film dashboard for Letterboxd with contribution graphs, a commit-style diary, and a working Git-style terminal.
-
-- **[Institutional-Style ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester)** *(private research project):* A modular Python framework for evaluating risk-adjusted ETF momentum strategies with realistic execution, costs, benchmarks, and reproducible analytics.
+- **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar that helps two users compare schedules, resolve conflicts, find mutual free time, and coordinate plans more easily.
+- **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Supporting Tesla's cutting edge Optimus robotics R&D initiative through sensor telemetry, computer vision, hardware-software triage, and quality assurance loops supporting AI development.
+- **[Institutional-Style ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester)** *(not yet public):* A modular Python framework for testing risk-adjusted ETF momentum strategies with point-in-time checks, realistic execution, costs, benchmarks, and reproducible analytics.
 
 ## 🛠️ Tech stack I work with
 
 **Languages**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI/ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
 
 ## 📬 Get in touch
 

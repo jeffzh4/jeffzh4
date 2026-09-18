@@ -9,7 +9,7 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 ## 🔭 What I'm working on
 
 - **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar that helps two users compare schedules, resolve conflicts, find mutual free time, and coordinate plans more easily.
-- **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Supporting Tesla's cutting edge Optimus robotics R&D initiative through sensor telemetry, computer vision, hardware-software triage, and quality assurance loops supporting AI development.
+- **[Tesla Optimus](https://www.tesla.com/careers/search/?query=Optimus&site=US):** Completed a Tesla Optimus robotics internship, supporting sensor telemetry, computer vision, hardware-software triage, and quality assurance loops for AI development.
 - **[Institutional-Style ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester)** *(not yet public):* A modular Python framework for testing risk-adjusted ETF momentum strategies with point-in-time checks, realistic execution, costs, benchmarks, and reproducible analytics.
 
 ## 🛠️ Tech stack I work with

@@ -25,10 +25,8 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 
 ## 📬 Get in touch
 
-- [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffzh4@uw.edu)
-- [![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://linkedin.com/in/jeffzh4/)
-- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jeff_zh4)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffzh4@uw.edu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffzh4/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jeff_zh4)
 
 <p align="center">
-  <sub>Always learning and building—open to software, hardware, embedded systems, research, and AI/ML opportunities across internships, part-time, and full-time roles.</sub>
+  <sub>Open to software, hardware, embedded, research, and AI/ML roles.</sub>
 </p>

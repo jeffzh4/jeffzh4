@@ -4,14 +4,13 @@
 
 # Hey, I'm Jeffrey 👋
 
-<img src="assets/portrait.png" alt="Jeffrey Zhang" width="300"/>
-
 I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I'm currently working on projects across **embedded systems, robotics, ML/AI, and quantitative finance**.
 
 ## 🔭 What I'm working on
 
 - **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar for comparing schedules, finding mutual free time, and coordinating plans.
 - **[ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester)** *(not yet public):* A modular Python framework for realistic, reproducible ETF strategy backtesting.
+- **[research tbd??]** *(not yet public):* 
 
 ## 🛠️ Tech stack I work with
 

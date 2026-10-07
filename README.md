@@ -8,9 +8,9 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 
 ## 🔭 What I'm working on
 
+- **Wearable Intelligence Lab** *(not yet public):* Investigating tactile embeddings in rings for projectile motion capture under supervision of Devin Murphy and Prof. Yiyue Luo.
 - **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar for comparing schedules, finding mutual free time, and coordinating plans.
 - **[ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester)** *(not yet public):* A modular Python framework for realistic, reproducible ETF strategy backtesting.
-- **[research tbd??]** *(not yet public):* 
 
 ## 🛠️ Tech stack I work with
 

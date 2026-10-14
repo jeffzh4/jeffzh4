@@ -4,13 +4,15 @@
 
 # Hey, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I'm currently working on projects ranging from **firmware systems to tactile embeddings to quantitative finance**.
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I'm currently working on projects ranging from **tactile embeddings to firmware systems to web development**.
 
 ## 🔭 What I'm working on
 
 - **Wearable Intelligence Lab** *(not yet public):* Investigating tactile embeddings in rings for projectile motion capture under supervision of Devin Murphy and Prof. Yiyue Luo.
-- **[Twosday](https://github.com/jeffzh4/Twosday):** A shared calendar for comparing schedules, finding mutual free time, and coordinating plans.
-- **[ETF Backtesting Engine](https://github.com/jeffzh4/institutional-backtester)** *(not yet public):* A modular Python framework for realistic, reproducible ETF strategy backtesting.
+- **[Twosday](https://www.twosday.dev/):** A shared calendar for comparing schedules, finding mutual free time, and coordinating plans.
+- **[Washington Solar Racing]** *(not yet public):* tbd...
+- **[Washington Tunneling](https://washingtontunneling.org/)]:** Responsible for the upkeep and maintenance of UW's Tunneling Engineering RSO webpage, as a member of the Business/Design team.
+- **[ETF Backtesting Engine]** *(not yet public):* A modular Python framework for realistic, reproducible ETF strategy backtesting.
 
 ## 🛠️ Tech stack I work with
 

@@ -8,10 +8,10 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 
 ## 🔭 What I'm working on
 
-- **Wearable Intelligence Lab** *(not yet public):* Investigating tactile embeddings in rings for projectile motion capture under supervision of Devin Murphy and Prof. Yiyue Luo.
+- **Wearable Intelligence Lab** *(not yet public):* Investigating tactile embeddings in rings for projectile motion capture under supervision of Devin Murphy and Yiyue Luo.
 - **[Twosday](https://www.twosday.dev/):** A shared calendar for comparing schedules, finding mutual free time, and coordinating plans.
-- **[Washington Solar Racing]** *(not yet public):* tbd...
-- **[Washington Tunneling](https://washingtontunneling.org/)]:** Responsible for the upkeep and maintenance of UW's Tunneling Engineering RSO webpage, as a member of the Business/Design team.
+- **[Washington Solar Racing](https://github.com/svtuw)** *(not yet public):* firmware/software systems for ASGP 2027 WIP
+- **[Washington Tunneling](https://washingtontunneling.org/):** Responsible for the upkeep and maintenance of UW's Tunneling Engineering RSO webpage as a member of the Business/Design team.
 - **[ETF Backtesting Engine]** *(not yet public):* A modular Python framework for realistic, reproducible ETF strategy backtesting.
 
 ## 🛠️ Tech stack I work with

@@ -4,7 +4,7 @@
 
 # Hey, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I'm currently working on projects ranging from **tactile embeddings to firmware systems to web development**.
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I'm currently working on projects ranging from **tactile embeddings** to **firmware systems** to **web development**.
 
 ## 🔭 What I'm working on
 

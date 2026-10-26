@@ -8,9 +8,9 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 
 ## 🔭 What I'm working on
 
-- **Wearable Intelligence Lab** *(not yet public):* Investigating tactile embeddings in rings for projectile motion capture under supervision of Devin Murphy and Yiyue Luo.
+- **Wearable Intelligence Lab** *(not yet public):* Investigating tactile embeddings in rings for projectile motion capture.
 - **[Twosday](https://www.twosday.dev/):** A shared calendar for comparing schedules, finding mutual free time, and coordinating plans.
-- **[Washington Solar Racing](https://github.com/svtuw)** *(not yet public):* firmware/software systems for ASGP 2027 WIP
+- **[Washington Solar Racing](https://github.com/svtuw)** *(not yet public):* Developing Sakura's firmware/software systems for ASGP 2027. [WIP] 
 
 ## 🛠️ Tech stack I work with
 

@@ -4,13 +4,13 @@
 
 # Hey, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. I'm currently working on projects ranging from **tactile embeddings** to **web development** to **firmware systems**.
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. My current work includes wearable sensing research and firmware for UW’s solar race car.
 
 ## 🔭 What I'm working on
 
 - **Wearable Intelligence Lab** *(not yet public):* Investigating tactile embeddings in rings for projectile motion capture.
 - **[Twosday](https://www.twosday.dev/):** A shared calendar for comparing schedules, finding mutual free time, and coordinating plans.
-- **[Washington Solar Racing](https://github.com/svtuw)** *(not yet public):* Developing Sakura's firmware/software systems for ASGP 2027. [WIP] 
+- **[Washington Solar Racing](https://github.com/svtuw)** *(firmware not yet public):* Developing firmware for Sakura, UW’s solar race car, ahead of ASGP 2027.
 
 ## 🛠️ Tech stack I work with
 

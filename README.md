@@ -8,8 +8,8 @@ I'm an **Electrical and Computer Engineering student at the University of Washin
 
 ## 🔭 What I'm working on
 
-- **Wearable Intelligence Lab** *(not yet public):* Investigating tactile embeddings in rings for projectile motion capture.
-- **[HSL Star Tracker](https://github.com/UWCubeSat/lost):** Working on LOST at Husky Satellite Lab to evaluate software identifying stars and estimating satellite attitude from camera images.
+- **Wearable Intelligence Lab:** Investigating tactile embeddings in rings for projectile motion capture.
+- **[HSL Star Tracker](https://github.com/UWCubeSat/lost):** Evaluating and refining LOST software identifying stars and satellite attitude from camera images.
 - **[Washington Solar Racing](https://github.com/svtuw):**  Developing firmware for Sakura, UW’s solar race car, ahead of ASGP 2027.
 
 ## 🛠️ Tech stack I work with

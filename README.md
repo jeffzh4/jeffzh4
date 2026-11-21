@@ -4,13 +4,13 @@
 
 # Hey, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. In my free time, I love to play the guitar, read (and reread) books by Haruki Murakami, and indoor climb! 
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. In my free time, I love to play the guitar, read (and reread) books by Haruki Murakami, and climb indoors! 
 
 ## 🔭 What I'm working on
 
 - **Wearable Intelligence Lab** *(not yet public):* Investigating tactile embeddings in rings for projectile motion capture.
-- **[HSL Star Tracker](https://github.com/UWCubeSat/lost):** Working with LOST at Husky Satellite Lab to identify stars and estimate satellite attitude from camera images.
-- **[Washington Solar Racing](https://github.com/svtuw)** *(firmware not yet public):* Developing firmware for Sakura, UW’s solar race car, ahead of ASGP 2027.
+- **[HSL Star Tracker](https://github.com/UWCubeSat/lost):** Working on LOST at Husky Satellite Lab to evaluate software identifying stars and estimating satellite attitude from camera images.
+- **[Washington Solar Racing](https://github.com/svtuw):**  Developing firmware for Sakura, UW’s solar race car, ahead of ASGP 2027.
 
 ## 🛠️ Tech stack I work with
 

@@ -4,7 +4,7 @@
 
 # Hey, I'm Jeffrey 👋
 
-I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. My current work includes wearable sensing research and firmware for UW’s solar race car.
+I'm an **Electrical and Computer Engineering student at the University of Washington**, pursuing a minor in **Computational Finance & Risk Management**. In my free time, I love to play the guitar, read (and reread) books by Haruki Murakami, and indoor climb! 
 
 ## 🔭 What I'm working on
 
